@@ -1,0 +1,4 @@
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Negocio\obj\Debug\netcoreapp3.1\DigitalWBackend.Negocio.csprojAssemblyReference.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Negocio\obj\Debug\netcoreapp3.1\DigitalWBackend.Negocio.AssemblyInfoInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Negocio\obj\Debug\netcoreapp3.1\DigitalWBackend.Negocio.AssemblyInfo.cs
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Negocio\obj\Debug\netcoreapp3.1\DigitalWBackend.Negocio.csproj.CoreCompileInputs.cache

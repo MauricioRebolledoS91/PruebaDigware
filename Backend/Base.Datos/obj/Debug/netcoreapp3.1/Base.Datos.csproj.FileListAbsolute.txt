@@ -1,0 +1,60 @@
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.deps.json
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.json
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.dev.json
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.dll
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.pdb
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.dll
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.pdb
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csprojAssemblyReference.cache
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfoInputs.cache
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfo.cs
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CoreCompileInputs.cache
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CopyComplete
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.dll
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.pdb
+D:\Files\Prueba Digital Ware\FacturacionBack\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.genruntimeconfig.cache
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.deps.json
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.json
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.dev.json
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.dll
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.pdb
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.dll
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.pdb
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csprojAssemblyReference.cache
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfoInputs.cache
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfo.cs
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CoreCompileInputs.cache
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CopyComplete
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.dll
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.pdb
+D:\Files\Prueba Digital Ware\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.genruntimeconfig.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.deps.json
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.json
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.dev.json
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.dll
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.pdb
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.dll
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.pdb
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csprojAssemblyReference.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfoInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfo.cs
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CopyComplete
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.dll
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.pdb
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.genruntimeconfig.cache
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.deps.json
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.json
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.runtimeconfig.dev.json
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.dll
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Datos.pdb
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.dll
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\bin\Debug\netcoreapp3.1\Base.Transversal.pdb
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csprojAssemblyReference.cache
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfoInputs.cache
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.AssemblyInfo.cs
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CoreCompileInputs.cache
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.csproj.CopyComplete
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.dll
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.pdb
+C:\Users\Maira\Downloads\Digitalw\Backend\Base.Datos\obj\Debug\netcoreapp3.1\Base.Datos.genruntimeconfig.cache

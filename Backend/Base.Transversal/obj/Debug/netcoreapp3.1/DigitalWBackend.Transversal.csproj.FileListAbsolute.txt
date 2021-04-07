@@ -1,0 +1,5 @@
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Transversal\obj\Debug\netcoreapp3.1\DigitalWBackend.Transversal.Recursos.Mensajes.resources
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Transversal\obj\Debug\netcoreapp3.1\DigitalWBackend.Transversal.csproj.GenerateResource.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Transversal\obj\Debug\netcoreapp3.1\DigitalWBackend.Transversal.AssemblyInfoInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Transversal\obj\Debug\netcoreapp3.1\DigitalWBackend.Transversal.AssemblyInfo.cs
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Transversal\obj\Debug\netcoreapp3.1\DigitalWBackend.Transversal.csproj.CoreCompileInputs.cache

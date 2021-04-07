@@ -1,0 +1,3 @@
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\DigitalWBackend.Datos.AssemblyInfoInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\DigitalWBackend.Datos.AssemblyInfo.cs
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.Datos\obj\Debug\netcoreapp3.1\DigitalWBackend.Datos.csproj.CoreCompileInputs.cache

@@ -1,0 +1,5 @@
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.API\obj\Debug\netcoreapp3.1\DigitalWBackend.API.csprojAssemblyReference.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.API\obj\Debug\netcoreapp3.1\DigitalWBackend.API.AssemblyInfoInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.API\obj\Debug\netcoreapp3.1\DigitalWBackend.API.AssemblyInfo.cs
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.API\obj\Debug\netcoreapp3.1\DigitalWBackend.API.csproj.CoreCompileInputs.cache
+C:\Users\Maira\Downloads\Facturacion-DigitalWare-main\Facturacion-DigitalWare-main\FacturacionBackDigitalWare\Base.API\obj\Debug\netcoreapp3.1\DigitalWBackend.API.MvcApplicationPartsAssemblyInfo.cache
